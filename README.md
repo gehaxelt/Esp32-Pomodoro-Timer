@@ -1,5 +1,4 @@
 # Esp32-Pomodoro-Timer
-=====================
 
 A DIY pomoro timer with an ESP32 and WS2812B LED matrix, programmed with the Adafruit NeoMatrix library.
 
